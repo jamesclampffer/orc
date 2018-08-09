@@ -1,10 +1,10 @@
-Wed Aug 30 10:56:51 EDT 2017
-HDFS-10787
-commit 9587bb04a818a2661e264f619b09c15ce10ff38e
-Author: Anatoli Shein <anatoli.shein@hpe.com>
-Date:   Wed Aug 30 10:49:42 2017 -0400
+Thu Aug  9 15:08:54 EDT 2018
+trunk
+commit 5326a7906de7c86a236d948012cabf3a9ba82310
+Author: Chen Liang <cliang@apache.org>
+Date:   Thu Aug 9 10:11:47 2018 -0700
 
-    fixed warnings3
+    HDFS-13735. Make QJM HTTP URL connection timeout configurable. Contributed by Chao Sun.
 diffs: --------------
        --------------
-Wed Aug 30 10:56:51 EDT 2017
+Thu Aug  9 15:08:54 EDT 2018
